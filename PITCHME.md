@@ -1,15 +1,13 @@
 # Flux
 
-An application architecture for React
-
+This is an amazing tool I am just learning how to use
 ---
 
 ### Flux Design
 
-- Dispatcher: Manages Data Flow
-- Stores: Handle State & Logic
-- Views: Render Data via React
-
+- Suggestions: I should show this to Freja
+- Why: this is something useful I have done whilst at this boring meeting
+- How: it took me no time for me to edit a text document
 ---
 
-![Flux Explained](https://facebook.github.io/flux/img/flux-simple-f8-diagram-explained-1300w.png)
+![C3S Test](https://cds.climate.copernicus.eu/apps/97/41-calculate-gdd)
