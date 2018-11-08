@@ -1,7 +1,18 @@
-# Flux
+# Test
 
 This is an amazing tool I am just learning how to use
 ---
+
+## Test 2
+
+Test 2
+---
+
+## Test 3
+
+Test 3
+---
+
 
 ### Flux Design
 
