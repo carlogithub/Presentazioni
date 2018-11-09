@@ -38,7 +38,7 @@ Sidebox with heading body template.
 @snapend
 
 @snap[north-east template-note text-gray]
-Sidebox with image body template.
+Sidebox with image body template (is this the snow man?).
 @snapend
 
 
