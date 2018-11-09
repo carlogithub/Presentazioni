@@ -18,14 +18,14 @@ Topics to be covered today
 
 @snap[east text-white span-45]
 @ol[split-screen-list](false)
-- Lorem ipsum dolor sit amet, consectetur elit
-- Ut enim ad minim veniam, quis exercitation
-- Duis aute irure dolor in reprehenderit in voluptate
+- Mannaggia mannaggia
+- Questo training contract non sembra andare bene
+- Assurdo!
 @olend
 @snapend
 
 @snap[south-west template-note text-gray]
-Split-screen heading and list body template.
+É questo il titolo
 @snapend
 
 
@@ -38,15 +38,14 @@ Top<br>Tips!
 
 @snap[west text-white span-65]
 @ul[split-screen-list](false)
-- Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore
-- Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
-- Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore
-- Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id
+- Secondo testo di prova
+- bla bla black
+- wha who wbi
 @ulend
 @snapend
 
 @snap[south-west template-note text-white]
-Split-screen heading and list body template.
+Secondo titolo. 
 @snapend
 
 
