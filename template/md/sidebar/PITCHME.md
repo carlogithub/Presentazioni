@@ -41,8 +41,6 @@ Sidebar with heading body template.
 Sidebar with image body template.
 @snapend
 
-
-+++?image=template/img/bg/green.jpg&position=left&size=30% 100%
 @title[Sidebar + Mixed Body]
 
 @snap[west text-white]
@@ -56,7 +54,7 @@ Sidebar with mixed body template.
 
 @snap[south-west list-content-concise span-400]
 @ol
-- &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Lorem ipsum dolor sit amet
+- Lorem ipsum dolor sit amet
 - Consectetur adipiscing elit
 - Sed do eiusmod tempor
 - Ut enim ad minim veniam
