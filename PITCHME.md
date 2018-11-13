@@ -9,7 +9,7 @@
 @snap[south-west byline  text-white]
 
 [Carlo Buontempo](https://www.ecmwf.int/en/about/who-we-are/staff-profiles/carlo-buontempo)
-13/10/2018
+<br> 13/10/2018
 @snapend
 
 ---
