@@ -14,12 +14,10 @@ Top level comments
 
 @snap[south-west list-content-concise span-100]
 @ol
--  It is important to distinguish between stakeholders and users
+-  It's essential to distinguish between stakeholders and users
 - Don't rule out NRT update; it could be a useful evolution
-- Access to data is not the main issue; the problem is the authoritativeness and the trust level
-- Don't try to second guess user understanding: energy sector have often a better understanding of the current climate than most of us have…
-- Why don't you work on embedding climate indices services into other apps
-
+- Access to data is not the main issue (authoritativeness and the trust)
+- Don't try to second guess user understanding of climate
 
 @olend
 <br><br>
@@ -40,6 +38,8 @@ Questions
 - What is the long term sustainability of the indecis website?
 - Why have you started from the data rather than from the users?
 - Governance: What role do users play in the shaping of the project?
+- Why don't you work on embedding climate indices services into other apps?
+
 
 
 @olend
