@@ -14,11 +14,13 @@ Top level comments
 
 @snap[south-west list-content-concise span-100]
 @ol
-- C1: distinguish between stakeholders and users
-- C2: if  on the CDS the equations would allow real-time monitoring
-- C3:  the issue is not the data; the problem is the authoritativeness and trust level
-- C4: don't second guess user understanding: energy sector have often a better understanding of the current climate than most of us have…
-- C5: why don't you work on embedding climate indices services into other apps
+-  It is important to distinguish between stakeholders and users
+- Don't rule out NRT update; it could be a useful evolution
+- Access to data is not the main issue; the problem is the authoritativeness
+and the trust level
+- Don't try to second guess user understanding: energy sector have often a
+better understanding of the current climate than most of us have…
+- Why don't you work on embedding climate indices services into other apps
 
 
 @olend
@@ -37,8 +39,9 @@ Questions
 
 @snap[south-west list-content-concise span-100]
 @ol
-- Q1: what is the long term sustainability of the indecis website
-- Q2: why do you start from the data rather than from the users?
+- What is the long term sustainability of the indecis website?
+- Why have you started from the data rather than from the users?
+- Governance: What role do users play in the shaping of the project?
 
 
 @olend
