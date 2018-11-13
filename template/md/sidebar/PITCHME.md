@@ -126,7 +126,9 @@ Recommendations 2/2
 @ol
 - Change the conversation with the users; it's not about you, it's about them
 - From "what CS can do for you" to "what keeps you awake at night"
--
+- You developed no one but two impressive websites
+- but why should the users come to it?
+- Collect the data on the users preference and traffic
 -
 -
 
