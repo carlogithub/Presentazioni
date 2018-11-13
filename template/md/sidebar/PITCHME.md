@@ -84,7 +84,10 @@ Recommendations
 - Engage direclty with [C3S](http://climate.copernicus.eu)
 - Publish the algorithms for indices and make them "tools" on the [CDS](http://cds.climate.copernicus.eu)
 - This would allow the software to be used on other datasets
+-
+- 
 @olend
+<br><br>
 @snapend
 
 @snap[south-west template-note text-gray]
