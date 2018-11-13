@@ -6,7 +6,7 @@ GitPitch<br>*Indecis*
 @snapend
 
 @snap[south-west byline  text-white]
-My notes on the project meeting in Dublin 
+My notes on the project meeting in Dublin
 @snapend
 
 ---
@@ -22,14 +22,6 @@ My notes on the project meeting in Dublin
 1. Then present and publish with GitPitch @fa[smile-o]
 <br><br>
 
-
----
-@title[Tip! Fullscreen]
-
-![TIP](template/img/tip.png)
-<br>
-For the best viewing experience, press F for fullscreen.
-@css[template-note](We recommend using the *SPACE* key to navigate between slides.)
 
 ---?include=template/md/sidebar/PITCHME.md
 
