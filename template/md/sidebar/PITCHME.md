@@ -56,7 +56,7 @@ Sidebar with mixed body template.
 
 @snap[south-west list-content-concise span-400]
 @ol
-- Lorem ipsum dolor sit amet
+- &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Lorem ipsum dolor sit amet
 - Consectetur adipiscing elit
 - Sed do eiusmod tempor
 - Ut enim ad minim veniam
