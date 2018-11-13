@@ -51,13 +51,11 @@ The Agenda
 
 @snap[south-west list-content-concise span-100]
 @ol
-- distinguish between stakeholders and users
-- Q1: what is the long term sustainability of the indecis website
-- Q2: why do you start from the data rather than from the users?
+- C distinguish between stakeholders and users
 - C: if  on the CDS the equations would allow real-time monitoring
 - C:  the issue is not the data; the problem is the authoritativeness and trust level
 - C: don't second guess user understanding: energy sector have often a better understanding of the current climate than most of us have…
-- C: why don't you work on embedding climate indices services into other apps 
+- C: why don't you work on embedding climate indices services into other apps
 
 
 @olend
@@ -68,7 +66,26 @@ The Agenda
 Concise ordered list-items template.
 @snapend
 
++++
+@title[Title + Concise List]
 
+@snap[north-west]
+The Agenda
+@snapend
+
+@snap[south-west list-content-concise span-100]
+@ol
+- Q1: what is the long term sustainability of the indecis website
+- Q2: why do you start from the data rather than from the users?
+
+
+@olend
+<br><br>
+@snapend
+
+@snap[south-west template-note text-gray]
+Concise ordered list-items template.
+@snapend
 
 
 +++?image=template/img/bg/pink.jpg&position=left&size=30% 100%
