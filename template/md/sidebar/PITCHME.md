@@ -42,7 +42,7 @@ Sidebar with image body template.
 @snapend
 
 
-+++?image=template/img/spotlight.png&position=top right&size=20% auto
++++
 @title[Title + Concise List]
 
 @snap[north-west]
