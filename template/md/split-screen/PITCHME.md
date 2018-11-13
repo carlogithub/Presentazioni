@@ -5,9 +5,9 @@
 
 @fa[arrow-down text-black]
 
-@snap[south docslink span-50]
-[The Template Docs](https://gitpitch.com/docs/the-template)
-@snapend
+#@snap[south docslink span-50]
+#[The Template Docs](https://gitpitch.com/docs/the-template)
+#@snapend
 
 +++?image=template/img/bg/orange.jpg&position=right&size=50% 100%
 @title[Heading + List Body]
@@ -45,7 +45,7 @@ Top<br>Tips!
 @snapend
 
 @snap[south-west template-note text-white]
-Secondo titolo. 
+Secondo titolo.
 @snapend
 
 
