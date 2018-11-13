@@ -9,7 +9,7 @@
 @title[Title + Concise List]
 
 @snap[north-west]
-Top level comments
+Top level comments 1/2
 @snapend
 
 @snap[south-west list-content-concise span-100]
@@ -25,6 +25,28 @@ Top level comments
 
 @snap[south-west template-note text-gray]
 @snapend
+
++++
+@title[Title + Concise List]
+
+@snap[north-west]
+Top level comments 2/2
+@snapend
+
+@snap[south-west list-content-concise span-100]
+@ol
+-  The work on homogenisation and QC is excellent and important
+- The CS proposition is less clear and compelling
+-
+- 
+
+@olend
+<br><br>
+@snapend
+
+@snap[south-west template-note text-gray]
+@snapend
+
 
 +++
 @title[Questions]
