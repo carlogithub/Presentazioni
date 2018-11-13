@@ -6,8 +6,7 @@ GitPitch<br>*The Template*
 @snapend
 
 @snap[south-west byline  text-white]
-The Fastest Way From Idea To Presentation.
-@snapend
+My notes on Indecis @snapend
 
 ---
 @title[Slide Markdown]
