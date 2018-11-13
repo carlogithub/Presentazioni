@@ -1,5 +1,5 @@
 ---?image=template/img/pencils.jpg
-@title[My suggestion]
+@title[Questions and comments]
 
 ## @color[black](My suggestions)
 
@@ -24,23 +24,6 @@
 @snap[north-east template-note text-gray]
 Sidebar with heading body template.
 @snapend
-
-
-+++?image=template/img/bg/orange.jpg&position=left&size=30% 100%
-@title[Sidebar + Image Body]
-
-@snap[west text-white]
-@size[3em](2.)
-@snapend
-
-@snap[east span-70]
-![SNOWMAN](template/img/snowman.gif)
-@snapend
-
-@snap[north-east template-note text-gray]
-Sidebar with image body template.
-@snapend
-
 
 +++
 @title[Title + Concise List]
@@ -84,22 +67,4 @@ Questions
 
 @snap[south-west template-note text-gray]
 
-@snapend
-
-
-+++?image=template/img/bg/pink.jpg&position=left&size=30% 100%
-@title[Sidebar + Text Body]
-
-@snap[west text-white]
-@size[3em](4.)
-@snapend
-
-@snap[east span-70]
-n voluptate velit @size[1.25em](esse cillum) dolore.
-<br><br>
- proident, @css[text-pink](sunt in culpa) qui.
-@snapend
-
-@snap[north-east template-note text-gray]
-Sidebar with text body template.
 @snapend
