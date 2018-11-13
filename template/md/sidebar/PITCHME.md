@@ -50,15 +50,16 @@ The Agenda
 @snapend
 
 @snap[south-west list-content-concise span-100]
-@ol[list-bullets-black](false)
-- Lorem ipsum dolor sit amet
-- Consectetur adipiscing elit
-- Sed do eiusmod tempor
-- Ut enim ad minim veniam
-- Duis aute irure dolor in
-- Excepteur sint occaecat
-- Cupidatat non proident
-- Sunt in culpa qui officia
+@ol
+- distinguish between stakeholders and users
+- Q1: what is the long term sustainability of the indecis website
+- Q2: why do you start from the data rather than from the users?
+- C: if  on the CDS the equations would allow real-time monitoring
+- C:  the issue is not the data; the problem is the authoritativeness and trust level
+- C: don't second guess user understanding: energy sector have often a better understanding of the current climate than most of us have…
+- C: why don't you work on embedding climate indices services into other apps 
+
+
 @olend
 <br><br>
 @snapend
