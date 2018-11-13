@@ -31,9 +31,10 @@ slides are only mine
 @title[The Template Docs]
 
 @snap[west headline span-100]
-GitPitch<br>*The Template @css[text-orange](End) ;)*
+<br>*End ;)*
 @snapend
 
 @snap[south docslink span-100]
-For supporting documentation see the [The Template Docs](https://gitpitch.com/docs/the-template)
+Thie presentation is available
+here: https://gitpitch.com/carlogithub/presentazioni/master
 @snapend
