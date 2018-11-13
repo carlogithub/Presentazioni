@@ -2,11 +2,12 @@
 @title[Introduction]
 
 @snap[west headline text-white span-70]
-GitPitch<br>*The Template*
+GitPitch<br>*Indecis*
 @snapend
 
 @snap[south-west byline  text-white]
-My notes on Indecis @snapend
+My notes on the project meeting in Dublin 
+@snapend
 
 ---
 @title[Slide Markdown]
