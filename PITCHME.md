@@ -18,14 +18,13 @@
 
 <br><br>
 
-1. This is an excellent project which bring together a community of experts
+1. Indices is an excellent project which bring together a community of experts
 working on a topic that is often overlooked
 1. I do have a number of questions and a few comments/recommendations to be
 discussed with you.
-1. I here represent the external advisory board by the view expressed in these
+1. Whilst I  represent the external advisory board but the view expressed in these
 slides are only mine
 <br><br>
-
 
 ---?include=template/md/sidebar/PITCHME.md
 
