@@ -2,7 +2,8 @@
 @title[Introduction]
 
 @snap[west headline text-white span-70]
-<br>*Indecis* Notes on the project meeting in Dublin
+<br>*Indecis*
+<br>Notes on the project meeting in Dublin
 @snapend
 
 @snap[south-west byline  text-white]
