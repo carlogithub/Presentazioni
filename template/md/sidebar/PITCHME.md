@@ -41,19 +41,16 @@ Sidebar with heading body template.
 Sidebar with image body template.
 @snapend
 
-@title[Sidebar + Mixed Body]
 
-@snap[west text-white]
-@size[3em](3.)
++++?image=template/img/spotlight.png&position=top right&size=20% auto
+@title[Title + Concise List]
+
+@snap[north-west]
+The Agenda
 @snapend
 
-@snap[north-east template-note text-gray]
-Sidebar with mixed body template.
-@snapend
-
-
-@snap[south-west list-content-concise span-400]
-@ol
+@snap[south-west list-content-concise span-100]
+@ol[list-bullets-black](false)
 - Lorem ipsum dolor sit amet
 - Consectetur adipiscing elit
 - Sed do eiusmod tempor
@@ -65,6 +62,12 @@ Sidebar with mixed body template.
 @olend
 <br><br>
 @snapend
+
+@snap[south-west template-note text-gray]
+Concise ordered list-items template.
+@snapend
+
+
 
 
 +++?image=template/img/bg/pink.jpg&position=left&size=30% 100%
