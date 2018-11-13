@@ -2,11 +2,11 @@
 @title[Introduction]
 
 @snap[west headline text-white span-70]
-<br>*Indecis*
+<br>*Indecis* Notes on the project meeting in Dublin
 @snapend
 
 @snap[south-west byline  text-white]
-Notes on the project meeting in Dublin
+
 [Carlo Buontempo](https://www.ecmwf.int/en/about/who-we-are/staff-profiles/carlo-buontempo)
 13/10/2018
 @snapend
