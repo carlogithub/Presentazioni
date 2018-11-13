@@ -19,7 +19,7 @@
 
 <br><br>
 
-1. Indices is an excellent project which bring together a community of experts
+1. Indecis is an excellent project which bring together a community of experts
 working on a topic that is often overlooked
 1. I do have a number of questions and a few comments/recommendations to be
 discussed with you.
