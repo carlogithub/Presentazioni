@@ -2,11 +2,13 @@
 @title[Introduction]
 
 @snap[west headline text-white span-70]
-GitPitch<br>*Indecis*
+<br>*Indecis*
 @snapend
 
 @snap[south-west byline  text-white]
-My notes on the project meeting in Dublin
+Notes on the project meeting in Dublin
+carlo.buontempo@ecmwf.int
+13/10/2018
 @snapend
 
 ---
