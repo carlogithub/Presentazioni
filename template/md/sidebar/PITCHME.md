@@ -1,11 +1,9 @@
 ---?image=template/img/pencils.jpg
 @title[Questions and comments]
 
-## @color[black](My suggestions)
+## @color[black](Comments and questions)
 
 @fa[arrow-down text-black]
-
-
 
 +++
 @title[Title + Concise List]
