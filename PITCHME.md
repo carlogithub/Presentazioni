@@ -7,7 +7,7 @@
 
 @snap[south-west byline  text-white]
 Notes on the project meeting in Dublin
-carlo.buontempo@ecmwf.int
+[Carlo Buontempo](https://www.ecmwf.int/en/about/who-we-are/staff-profiles/carlo-buontempo)
 13/10/2018
 @snapend
 
