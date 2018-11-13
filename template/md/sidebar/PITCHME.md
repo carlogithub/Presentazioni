@@ -54,7 +54,7 @@ Sidebar with mixed body template.
 @snapend
 
 
-@snap[south-west list-content-concise span-200]
+@snap[south-west list-content-concise span-400]
 @ol
 - Lorem ipsum dolor sit amet
 - Consectetur adipiscing elit
