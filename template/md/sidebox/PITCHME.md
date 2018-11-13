@@ -1,13 +1,13 @@
 ---?image=template/img/pencils.jpg
-@title[Sidebox Templates]
+@title[My notes for Indecis]
 
 ## @color[black](Sidebox<br>Slide Templates)
 
 @fa[arrow-down text-black]
 
-#@snap[south docslink span-50]
-#[The Template Docs](https://gitpitch.com/docs/the-template)
-#@snapend
+@snap[south docslink span-50]
+[The Template Docs](https://gitpitch.com/docs/the-template)
+@snapend
 
 
 +++?image=template/img/bg/blue.jpg&position=left&size=30% 50%
