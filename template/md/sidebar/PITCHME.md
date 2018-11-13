@@ -54,7 +54,7 @@ Top level comments 2/2
 @title[Questions]
 
 @snap[north-west]
-Questions
+Questions 1/2
 @snapend
 
 @snap[south-west list-content-concise span-100]
@@ -63,6 +63,26 @@ Questions
 - Why have you started from the data rather than from the users?
 - Governance: What role do users play in the shaping of the project?
 - Why don't you work on embedding climate indices services into other apps?
+
+@olend
+<br><br>
+@snapend
+
+@snap[south-west template-note text-gray]
+
+@snapend
+
++++
+@title[Questions]
+
+@snap[north-west]
+Questions 2/2
+@snapend
+
+@snap[south-west list-content-concise span-100]
+@ol
+- How will the sectoral data be used in the project (e.g. Calabria)
+
 
 @olend
 <br><br>
@@ -84,9 +104,9 @@ Recommendations
 - Engage direclty with [C3S](http://climate.copernicus.eu)
 - Publish the algorithms for indices and make them "tools" on the [CDS](http://cds.climate.copernicus.eu)
 - This would allow the software to be used on other datasets
-
-
-
+-
+-
+-
 
 @olend
 <br><br>
