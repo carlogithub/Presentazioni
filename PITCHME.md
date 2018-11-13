@@ -12,14 +12,16 @@ My notes on the project meeting in Dublin
 ---
 @title[Slide Markdown]
 
-### Each slide in this presentation is provided as a *template*.
+### Caveats.
 
 <br><br>
 
-1. Select only the slide templates that you need.
-1. Customize the template _markdown content_.
-1. Optionally, override template _styles_ and _settings_.
-1. Then present and publish with GitPitch @fa[smile-o]
+1. This is an excellent project which bring together a community of experts
+working on a topic that is often overlooked
+1. I do have a number of questions and a few comments/recommendations to be
+discussed with you.
+1. I here represent the external advisory board by the view expressed in these
+slides are only mine
 <br><br>
 
 

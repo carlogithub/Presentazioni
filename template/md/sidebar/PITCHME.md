@@ -46,16 +46,16 @@ Sidebar with image body template.
 @title[Title + Concise List]
 
 @snap[north-west]
-The Agenda
+Top level comments
 @snapend
 
 @snap[south-west list-content-concise span-100]
 @ol
-- C distinguish between stakeholders and users
-- C: if  on the CDS the equations would allow real-time monitoring
-- C:  the issue is not the data; the problem is the authoritativeness and trust level
-- C: don't second guess user understanding: energy sector have often a better understanding of the current climate than most of us have…
-- C: why don't you work on embedding climate indices services into other apps
+- C1: distinguish between stakeholders and users
+- C2: if  on the CDS the equations would allow real-time monitoring
+- C3:  the issue is not the data; the problem is the authoritativeness and trust level
+- C4: don't second guess user understanding: energy sector have often a better understanding of the current climate than most of us have…
+- C5: why don't you work on embedding climate indices services into other apps
 
 
 @olend
@@ -63,14 +63,13 @@ The Agenda
 @snapend
 
 @snap[south-west template-note text-gray]
-Concise ordered list-items template.
 @snapend
 
 +++
-@title[Title + Concise List]
+@title[Questions]
 
 @snap[north-west]
-The Agenda
+Questions
 @snapend
 
 @snap[south-west list-content-concise span-100]
@@ -84,7 +83,7 @@ The Agenda
 @snapend
 
 @snap[south-west template-note text-gray]
-Concise ordered list-items template.
+
 @snapend
 
 
@@ -96,9 +95,9 @@ Concise ordered list-items template.
 @snapend
 
 @snap[east span-70]
-Duis aute irure dolor in reprehenderit in voluptate velit @size[1.25em](esse cillum) dolore eu fugiat nulla pariatur.
+n voluptate velit @size[1.25em](esse cillum) dolore.
 <br><br>
-Excepteur sint occaecat cupidatat non proident, @css[text-pink](sunt in culpa) qui officia deserunt mollit anim id est laborum.
+ proident, @css[text-pink](sunt in culpa) qui.
 @snapend
 
 @snap[north-east template-note text-gray]
