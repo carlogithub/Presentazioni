@@ -75,9 +75,8 @@ Questions
 
 +++
 @title[Recommendations]
-
 @snap[north-west]
-Questions
+Recommendations
 @snapend
 
 @snap[south-west list-content-concise span-100]
@@ -85,7 +84,6 @@ Questions
 - Engage direclty with [C3S](http://climate.copernicus.eu)
 - Publish the algorithms for indices and make them "tools" on the [CDS](http://cds.climate.copernicus.eu)
 - This would allow the software to be used on other datasets
-
 @olend
 @snapend
 
