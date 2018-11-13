@@ -12,7 +12,7 @@
 <br> 13/10/2018
 @snapend
 
----
+---?color=linear-gradient(to right, #861919, #f2e8e8)
 @title[Slide Markdown]
 
 ### Top level message and caveats
@@ -29,7 +29,7 @@ slides are only mine
 
 ---?include=template/md/sidebar/PITCHME.md
 
----
+---?color=linear-gradient(to right, #861919, #f2e8e8)
 @title[The Template Docs]
 
 @snap[west headline span-100]
