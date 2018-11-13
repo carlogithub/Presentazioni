@@ -1,5 +1,5 @@
 ---?image=template/img/pencils.jpg
-@title[Sidebar Templates]
+@title[My suggestion]
 
 ## @color[black](Sidebar<br>Slide Templates)
 
@@ -11,7 +11,7 @@
 
 
 +++?image=template/img/bg/blue.jpg&position=left&size=30% 100%
-@title[Sidebar + Heading]
+@title[Critical elements]
 
 @snap[west text-white]
 @size[3em](1.)
