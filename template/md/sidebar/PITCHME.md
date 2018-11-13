@@ -81,8 +81,8 @@ Questions 2/2
 
 @snap[south-west list-content-concise span-100]
 @ol
-- How will the sectoral data be used in the project (e.g. Calabria)
-
+- How will the sectoral data be used in the project (e.g. Calabria)?
+- Why to start from CS rather than from a user problem ?
 
 @olend
 <br><br>
@@ -96,7 +96,7 @@ Questions 2/2
 +++
 @title[Recommendations]
 @snap[north-west]
-Recommendations
+Recommendations 1/2
 @snapend
 
 @snap[south-west list-content-concise span-100]
@@ -114,4 +114,22 @@ Recommendations
 
 @snap[south-west template-note text-gray]
 I am clearly biased on this topic as I have a vested interest....
+@snapend
+
++++
+@title[Recommendations]
+@snap[north-west]
+Recommendations 2/2
+@snapend
+
+@snap[south-west list-content-concise span-100]
+@ol
+- Change the conversation with the users; it's not about you, it's about them
+- From "what CS can do for you" to "what keeps you awake at night"
+-
+-
+-
+
+@olend
+<br><br>
 @snapend
