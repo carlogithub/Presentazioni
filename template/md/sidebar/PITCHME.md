@@ -36,9 +36,10 @@ Top level comments 2/2
 @snap[south-west list-content-concise span-100]
 @ol
 -  The work on homogenisation and QC is excellent and important
+- It will be important to discuss how this could feed into the [C3S](http://climate.copernicus.eu)
 - The CS proposition is less clear and compelling
 -
-- 
+-
 
 @olend
 <br><br>
