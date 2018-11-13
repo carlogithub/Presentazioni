@@ -1,7 +1,7 @@
 ---?image=template/img/pencils.jpg
 @title[My suggestion]
 
-## @color[black](Sidebar<br>Slide Templates)
+## @color[black](My suggestions)
 
 @fa[arrow-down text-black]
 
