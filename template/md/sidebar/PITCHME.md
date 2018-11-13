@@ -49,18 +49,12 @@ Sidebar with image body template.
 @size[3em](3.)
 @snapend
 
-@snap[east span-70]
-@fa[rocket fa-5x text-orange]
-<br><br>
-We Have Lift Off
-@snapend
-
 @snap[north-east template-note text-gray]
 Sidebar with mixed body template.
 @snapend
 
 
-@snap[south-west list-content-concise span-100]
+@snap[south-west list-content-concise span-200]
 @ol
 - Lorem ipsum dolor sit amet
 - Consectetur adipiscing elit
