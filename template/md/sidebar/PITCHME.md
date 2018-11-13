@@ -39,7 +39,6 @@ Top level comments 2/2
 -  It's essential to distinguish between stakeholders and users
 - Don't rule out NRT update; it could be a useful evolution
 - Access to data is not the main issue (authoritativeness and the trust)
-- Don't try to second guess user understanding of climate
 
 @olend
 
@@ -54,13 +53,12 @@ Top level comments 2/2
 @title[Questions]
 
 @snap[north-west]
-Questions 1/2
+Questions
 @snapend
 
 @snap[south-west list-content-concise span-100]
 @ol
-- What is the long term sustainability of the indecis website?
-- Why have you started from the data rather than from the users?
+- What is the long term sustainability of the indecis website-s?
 - Governance: What role do users play in the shaping of the project?
 - Why don't you work on embedding climate indices services into other apps?
 
@@ -73,27 +71,6 @@ Questions 1/2
 @snapend
 
 +++
-@title[Questions]
-
-@snap[north-west]
-Questions 2/2
-@snapend
-
-@snap[south-west list-content-concise span-100]
-@ol
-- How will the sectoral data be used in the project (e.g. Calabria)?
-- Why to start from CS rather than from a user problem ?
-
-@olend
-<br><br>
-@snapend
-
-@snap[south-west template-note text-gray]
-
-@snapend
-
-
-+++
 @title[Recommendations]
 @snap[north-west]
 Recommendations 1/2
@@ -101,6 +78,7 @@ Recommendations 1/2
 
 @snap[south-west list-content-concise span-100]
 @ol
+- Push even further the role of the users
 - Engage direclty with [C3S](http://climate.copernicus.eu)
 - Publish the algorithms for indices and make them "tools" on the [CDS](http://cds.climate.copernicus.eu)
 - This would allow the software to be used on other datasets
