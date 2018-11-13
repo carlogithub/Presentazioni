@@ -16,10 +16,8 @@ Top level comments
 @ol
 -  It is important to distinguish between stakeholders and users
 - Don't rule out NRT update; it could be a useful evolution
-- Access to data is not the main issue; the problem is the authoritativeness
-and the trust level
-- Don't try to second guess user understanding: energy sector have often a
-better understanding of the current climate than most of us have…
+- Access to data is not the main issue; the problem is the authoritativeness and the trust level
+- Don't try to second guess user understanding: energy sector have often a better understanding of the current climate than most of us have…
 - Why don't you work on embedding climate indices services into other apps
 
 
